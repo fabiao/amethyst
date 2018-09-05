@@ -145,7 +145,7 @@ mod light;
 mod mesh;
 mod mtl;
 mod pass;
-mod renderer;
+pub mod renderer;
 mod resources;
 mod shape;
 mod skinning;

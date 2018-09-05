@@ -86,7 +86,7 @@ mod material;
 mod prefab;
 mod resources;
 mod skinning;
-mod sprite;
+pub mod sprite;
 mod systems;
 mod transform;
 mod util;

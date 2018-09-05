@@ -101,6 +101,6 @@ mod app;
 mod error;
 mod game_data;
 mod logger;
-mod state;
+pub mod state;
 mod state_event;
 mod vergen;
